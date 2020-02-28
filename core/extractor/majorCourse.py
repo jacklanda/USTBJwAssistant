@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 #author:Jacklanda
+
 '''
 由于API接口返回的是现成的json格式数据，故此直接将json赋给dic对象，并将dic返回。
 '''

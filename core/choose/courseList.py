@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 #author:Jacklanda
+
 '''
 courseList()从经过清洗的publicChoose库中抽出实时可选的课列表（该课列表仅作为参考）
 '''
