@@ -32,17 +32,17 @@ ___
 
 如果你想体验脚本的功能，请按如下步骤进行：
 
-（默认使用者已安装CPython37以上的相关Python发行版）
+（默认使用者已安装CPython37以上的相关 [Python](https://www.python.org/) 发行版）
 
 * 进入ustbJwspider根目录下，启动cmd命令行，键入：
 
 ```python
-pip3 install -r requirements.txt       #使用pip安装
+pip3 install -r requirements.txt                #使用pip安装
 ```
 
-* 自行到MongoDB官网上下载适配自己系统版本的MongoDB安装包，解压安装
+* 自行到 MongoDB 官网上下载适配自己系统版本的 [MongoDB](https://www.mongodb.com/download-center/community) 安装包，解压安装
 
-  到RoboStudio官网下载Robo3T（GUI），安装后打开GUI，建立位于本地的MongoClient
+  到 RoboStudio 官网下载 [Robo3T](https://robomongo.org/download)（GUI），安装后打开GUI，建立位于本地的MongoClient
 
 #### 使用脚本
 
