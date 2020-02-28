@@ -34,10 +34,10 @@ ___
 
 （默认使用者已安装CPython37以上的相关 [Python](https://www.python.org/) 发行版）
 
-* 进入ustbJwspider根目录下，启动cmd命令行，键入：
+* 进入ustbJwspider根目录下，启动cmd命令行/Terminal/shell，键入：
 
 ```python
-pip3 install -r requirements.txt                #使用pip安装
+pip3 install -r requirements.txt                    #使用pip安装
 ```
 
 * 自行到 MongoDB 官网上下载适配自己系统版本的 [MongoDB](https://www.mongodb.com/download-center/community) 安装包，解压安装
